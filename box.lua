@@ -3431,8 +3431,8 @@ do
 				Button = {
 					Shadow = c(Color3.fromRGB(50, 50, 50)),
 					FillPrimary = c(ColorSequence.new({
-						ColorSequenceKeypoint.new(0, Color3.fromRGB(72, 233, 0)),
-						ColorSequenceKeypoint.new(1, Color3.fromRGB(10, 200, 0)),
+						ColorSequenceKeypoint.new(0, Color3.fromRGB(2, 15, 190)),
+						ColorSequenceKeypoint.new(1, Color3.fromRGB(2, 15, 190)),
 					})),
 					FillSecondary = c(ColorSequence.new({
 						ColorSequenceKeypoint.new(0, Color3.fromRGB(60, 60, 60)),
@@ -3532,8 +3532,8 @@ do
 				Button = {
 					Shadow = c(Color3.new(0, 0, 0)),
 					FillPrimary = c(ColorSequence.new({
-						ColorSequenceKeypoint.new(0, Color3.fromRGB(72, 233, 0)),
-						ColorSequenceKeypoint.new(1, Color3.fromRGB(10, 200, 0)),
+						ColorSequenceKeypoint.new(0, Color3.fromRGB(2, 15, 190)),
+						ColorSequenceKeypoint.new(1, Color3.fromRGB(2, 15, 190)),
 					})),
 					FillSecondary = c(ColorSequence.new({
 						ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 255, 255)),
